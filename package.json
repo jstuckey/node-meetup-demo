@@ -1,0 +1,11 @@
+{
+  "name": "node_dc_zlib_demo",
+  "version": "0.0.0",
+  "description": "Demonstration of ZLIB module for Node.dc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Stuckey",
+  "license": "MIT"
+}
